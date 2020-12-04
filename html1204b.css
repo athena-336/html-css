@@ -1,0 +1,27 @@
+
+		body{
+			background-color:pink;
+		}
+		h1{
+			font-size:large;
+			color:black;
+		}
+		h2{
+
+		}
+		h3{
+			font-style:15px;
+		}
+		miltiple{
+			color:solid black;
+		}
+		.extra multiple{
+			color:inherit;
+		}
+		p{
+			border:1px solid black;
+
+			marginal-left:auto;
+            marginal-right:auto;
+        }
+	
